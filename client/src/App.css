@@ -1,0 +1,53 @@
+.home-container-1{
+    min-height: 100vh;
+    max-width: 1250px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0% auto;
+}
+
+.home-container-2{
+    max-width: 1100px;
+    width: calc(100% - 164px);
+    border: 1px solid #d6d9dc;
+    padding: 24px;
+    box-sizing: border-box;
+
+}
+.ce-my-message-bubble {
+    background-color: #7a39e0 !important;
+  }
+  
+  .ce-chat-title-text {
+    color: #7a39e0 !important;
+  }
+  
+  .ce-chat-subtitle-text {
+    color: #7a39e0 !important;
+    font-weight: 600;
+  }
+  
+  #ce-send-message-button {
+    position: relative !important;
+    bottom: 2px !important;
+    left: 1px !important;
+    background-color: #7a39e0 !important;
+  }
+  
+  .ce-my-message-timestamp {
+    color: #7a39e0 !important;
+  }
+  
+  .transition-3 {
+    transition: all 0.33s ease;
+    -webkit-transition: all 0.33s ease;
+    -moz-transition: all 0.33s ease;
+  }
+  
+  .transition-5 {
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+  }
+  
